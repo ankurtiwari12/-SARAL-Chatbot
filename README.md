@@ -5,6 +5,8 @@ A comprehensive Retrieval-Augmented Generation (RAG) system with advanced featur
 ---
 
 ## 🚀 Features
+![Uploading image.png…]()
+
 
 ### **Core RAG Pipeline**
 - ✅ **Document Loading**: PDF upload and indexing via Streamlit UI
