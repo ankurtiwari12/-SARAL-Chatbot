@@ -5,7 +5,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system with advanced featur
 ---
 
 ## 🚀 Features
-![Uploading image.png…]()
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/83339ec0-f78b-4f9d-90b4-3282a5842236" />
 
 
 ### **Core RAG Pipeline**
