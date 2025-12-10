@@ -817,8 +817,6 @@ This project is for educational and research purposes.
 ---
 
 ## 🙏 Acknowledgments
-
-- **Original Contribution**: shashank.0901sharma@gmail.com
 - **Advanced Features**: Math-aware retrieval, evaluation system, feedback loop
 - **Technologies**: LangChain, ChromaDB, Ollama, Streamlit, SymPy, Transformers
 
